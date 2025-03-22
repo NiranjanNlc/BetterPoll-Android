@@ -45,3 +45,8 @@ https://user-images.githubusercontent.com/89146189/204882082-c7761da8-14eb-4320-
 
 
 
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
